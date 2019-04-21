@@ -1,4 +1,2 @@
-for i in range(1,3):
-	for a in range(3):
-		i<=a
-		print("*"*i)
+for i in range(5,0,-1):
+	print("*"*i)
