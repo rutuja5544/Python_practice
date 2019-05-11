@@ -1,6 +1,5 @@
 # Enter any No , and checked that no is same or greater or lower  
 
-
 import random
 a = random.randint(1,10)
 
