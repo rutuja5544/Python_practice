@@ -1,3 +1,6 @@
+# Comparing in 5 NOs.
+
+
 a=int(input(" a : value\n"))
 b=int(input(" b : value\n"))
 c=int(input(" c : value\n"))
