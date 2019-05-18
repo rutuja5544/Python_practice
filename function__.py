@@ -1,3 +1,5 @@
+# Prime No  
+
 def prime(a):
 	for i in range(2,a):
 		if a%i==0:
